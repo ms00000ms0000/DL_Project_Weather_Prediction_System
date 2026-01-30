@@ -120,4 +120,4 @@ The trained model achieved **~82% accuracy**, effectively classifying weather ty
 * Integrate live weather data APIs
 * Use LSTM or CNN for sequence-based time-series forecasting
 * Deploy model using Flask or Streamlit for real-time predictions
-* Link - https://github.com/ms00000ms0000/DL_Project_Weather_Prediction_System/edit/main/README.md
+* Link -  https://weatherpredictionwebapp0000.streamlit.app/
