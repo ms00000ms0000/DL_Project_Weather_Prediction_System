@@ -4,7 +4,7 @@
 
 The **Weather Prediction System** is a Deep Learning-based project that predicts the type of weather (Rain, Drizzle, Fog, Sun, or Snow) using meteorological features such as **precipitation, temperature, and wind speed**.
 Built with a **Sequential Neural Network**, this model achieves around **82% accuracy**, making it a robust baseline for short-term weather classification tasks.
-
+🔗 **Live App:**   https://weatherpredictionwebapp0000.streamlit.app/ 
 ---
 
 ## 🔍 About the Project
@@ -120,4 +120,3 @@ The trained model achieved **~82% accuracy**, effectively classifying weather ty
 * Integrate live weather data APIs
 * Use LSTM or CNN for sequence-based time-series forecasting
 * Deploy model using Flask or Streamlit for real-time predictions
-* Link -  https://weatherpredictionwebapp0000.streamlit.app/
